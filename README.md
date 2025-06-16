@@ -56,3 +56,6 @@ Feel free to fork the repo and submit PRs. You can also raise issues for new fea
 ## 📄 License
 
 This project is under the [MIT License](LICENSE).
+
+> ⚡️ This MVP was built using [Lovable](https://lovable.so), a powerful prompt-based product builder for startups.
+
