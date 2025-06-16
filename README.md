@@ -1,73 +1,58 @@
-# Welcome to your Lovable project
 
-## Project info
+# Jal-Sathi Alert Seva 🚰📱
 
-**URL**: https://lovable.dev/projects/937f229c-0b46-43f9-96d5-4312e07d7c80
+A grassroots-level MVP built with `Vite + React + TypeScript + shadcn/ui + TailwindCSS`. This project is focused on solving rural water scarcity and contamination issues by enabling real-time alerts, community-driven reporting, and visualization dashboards.
 
-## How can I edit this code?
+## 🌟 Features
 
-There are several ways of editing your application.
+- 🧑‍🌾 Citizen reporting system for water issues
+- 🛰️ Real-time alerts for water scarcity or contamination
+- 📍 GPS tagging for issue localization
+- 📊 Admin dashboard to view reports and send alerts
+- 🔔 Local language push notifications
 
-**Use Lovable**
+## 📸 Screenshots
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/937f229c-0b46-43f9-96d5-4312e07d7c80) and start prompting.
+### 🔍 Alert Creation
+![Alert Screen](./Screenshot%202025-06-16%20025129.png)
 
-Changes made via Lovable will be committed automatically to this repo.
+### 📍 Issue Dashboard
+![Dashboard](./Screenshot%202025-06-16%20025212.png)
 
-**Use your preferred IDE**
+### 📱 Mobile View of Alerts
+![Mobile View](./Screenshot%202025-06-16%20025240.png)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 🎥 Demo GIF
+![Demo](./Screen-Recording%20(5).gif)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Frontend**: React + Vite + TypeScript
+- **UI**: shadcn/ui + TailwindCSS
+- **Tooling**: ESLint, PostCSS, Bun
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🚀 Getting Started
 
-# Step 3: Install the necessary dependencies.
-npm i
+```bash
+# Step 1: Clone the repository
+git clone https://github.com/tanishqkolhatkar93/jal-sathi-alert-seva.git
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 2: Navigate into the project
+cd jal-sathi-alert-seva
+
+# Step 3: Install dependencies
+npm install
+
+# Step 4: Run the dev server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 🤝 Contributing
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Feel free to fork the repo and submit PRs. You can also raise issues for new features or bug fixes.
 
-**Use GitHub Codespaces**
+## 📄 License
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/937f229c-0b46-43f9-96d5-4312e07d7c80) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+This project is under the [MIT License](LICENSE).
